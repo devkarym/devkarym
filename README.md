@@ -10,8 +10,7 @@
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
     
  ## My Stats🚀
-![Karine's github stats](https://github-readme-stats.vercel.app/api?username=karinemso&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karinemso&theme=tokyonight" alt="mystreak"/>
+![Karine's github stats](https://github-readme-stats.vercel.app/api?username=karinemso&show_icons=true&theme=tokyonight)<img src="https://github-readme-streak-stats.herokuapp.com/?user=karinemso&theme=tokyonight" alt="mystreak"/>
 ![Karine's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karinemso&theme=tokyonight&layout=compact)
 <!---
 karinemso/karinemso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
