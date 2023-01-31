@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @karinemso
 ### 👀 I’m interested in ... Data Analysis and Data Science
-### 🌱 I’m currently learning ... Python, SQL, Excel, Panda, Numpy, Matplotlib
+### 🌱 I’m currently learning ... Python, SQL, Excel, Pandas, Numpy, Matplotlib
 
 - **My skills**:
     
