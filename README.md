@@ -1,5 +1,5 @@
 ### 👋 Olá, eu sou a @karinemso
-### 👀 Tenho interesse em ... Análise de Dados e Ciência de Dados
+### 👀 Tenho interesse em ... Desenvolvimento Web
 ### 🌱 Atualmente estou aprendendo ... Python, SQL, Excel, Pandas, Numpy, Matplotlib
 
 - **Minhas habilidades**:
