@@ -1,6 +1,6 @@
 ### 👋 Olá, eu sou a @karinemso
 ### 👀 Tenho interesse em ... Desenvolvimento Web
-### 🌱 Atualmente estou aprendendo ... Python, SQL, Excel, Pandas, Numpy, Matplotlib
+### 🌱 Atualmente estou aprendendo ... Javascript, React, Jest, Scss, Angular, Vue
 
 - **Minhas habilidades**:
     
