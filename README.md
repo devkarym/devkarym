@@ -15,5 +15,5 @@
     
     
  ## Minhas Estatísticas 🚀
-![Estatísticas do GitHub da Karine](https://github-readme-stats.vercel.app/api?username=karinemso&show_icons=true&theme=tokyonight)<img src="https://github-readme-streak-stats.herokuapp.com/?user=karinemso&theme=tokyonight" alt="mystreak"/>
+![Estatísticas do GitHub da Karine](https://github-readme-stats.vercel.app/api?username=karinemso&show_icons=true&theme=tokyonight)
 
