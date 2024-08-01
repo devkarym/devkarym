@@ -12,8 +12,3 @@
    ![React](https://img.shields.io/badge/React%20-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
    ![TypeScript](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-    
-    
- ## Minhas Estatísticas 🚀
-![Estatísticas do GitHub da Karine](https://github-readme-stats.vercel.app/api?username=karinemso&show_icons=true&theme=tokyonight)
-
