@@ -51,5 +51,5 @@
 
 ---
 
-> 💭 *"Se a vida te der um bug, transforma em feature com carisma."*
+💭 "Acredito que boas ideias merecem boas interfaces."
 
