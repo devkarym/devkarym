@@ -1,4 +1,4 @@
-<h1 align="center">✨ Olá, eu sou a Karine! 👩‍💻</h1>
+<h1 align="center">✨ Olá, eu sou Karine Michelle! 👩‍💻</h1>
 <h3 align="center">Frontend Developer • Criativa • Apaixonada por patos e interfaces bonitas 🦆💜</h3>
 
 ---
