@@ -47,7 +47,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karinemichelle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Em%20Breve-informational?style=for-the-badge)](#)
-[![Email](https://img.shields.io/badge/Email-karinemso@gmail.com-red?style=for-the-badge)](mailto:karinemso@gmail.com)
+[![Email](https://img.shields.io/badge/Email-devkarym@gmail.com-red?style=for-the-badge)](mailto:karinemso@gmail.com)
 
 ---
 
